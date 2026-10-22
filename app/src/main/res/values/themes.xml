@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.B18" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#22C55E</item>
+        <item name="android:statusBarColor">@color/bg_app</item>
+    </style>
+
+    <style name="Theme.B18" parent="Base.Theme.B18" />
+</resources>
